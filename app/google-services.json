@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "848982281819",
+    "firebase_url": "https://instatracker-3e17e.firebaseio.com",
+    "project_id": "instatracker-3e17e",
+    "storage_bucket": "instatracker-3e17e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848982281819:android:acc5b77d93a67fc2",
+        "android_client_info": {
+          "package_name": "com.instatracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848982281819-jipau3joklpaj26q7itjqajkvosdvb3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instatracker",
+            "certificate_hash": "06e70ef31dae86fe0d67fe174fcb28493421d66e"
+          }
+        },
+        {
+          "client_id": "848982281819-2b05pj49h5qj4dg3me9thlk9rvsvm1mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgPhIYrAgdp4Wp0q550RPtqY3bPTmMseo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848982281819-2b05pj49h5qj4dg3me9thlk9rvsvm1mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
